@@ -6,7 +6,7 @@
 
 ## 🌐 Portfolio
 
-**Live Portfolio:** https://portfoliobyks.netlify.app/
+**Live Portfolio:** https://portfoliobyks.vercel.app/
 
 ## 👋 About
 
